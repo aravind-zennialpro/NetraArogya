@@ -1,0 +1,5 @@
+{
+  "name": "NetraArogya",
+  "description": "AI-powered medicine recognition and analysis from tablet sheet photos.",
+  "requestFramePermissions": ["camera"]
+}
